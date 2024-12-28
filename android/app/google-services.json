@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549804707145",
+    "project_id": "poetic-primer-393218",
+    "storage_bucket": "poetic-primer-393218.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549804707145:android:3f2a93f95fd01cd2b95e98",
+        "android_client_info": {
+          "package_name": "com.example.tastappfastlane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTE2S-JgiQr5rL9eMrthNwRnE1wYL9ZYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
